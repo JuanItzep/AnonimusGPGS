@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfront=self.webpackChunkfront||[]).push([[9421],{9421:(e,s,f)=>{f.r(s)}}]);
