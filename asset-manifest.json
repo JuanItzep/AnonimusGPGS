@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnonimusGPGS/static/css/main.05fbed40.css",
-    "main.js": "/AnonimusGPGS/static/js/main.009263cd.js",
+    "main.js": "/AnonimusGPGS/static/js/main.d996de17.js",
     "static/js/7614.8408a0c3.chunk.js": "/AnonimusGPGS/static/js/7614.8408a0c3.chunk.js",
     "static/js/9421.c615b58e.chunk.js": "/AnonimusGPGS/static/js/9421.c615b58e.chunk.js",
     "static/js/9553.f43ad731.chunk.js": "/AnonimusGPGS/static/js/9553.f43ad731.chunk.js",
@@ -93,7 +93,7 @@
     "static/media/codicon.ttf": "/AnonimusGPGS/static/media/codicon.f6283f7ccaed1249d9eb.ttf",
     "index.html": "/AnonimusGPGS/index.html",
     "main.05fbed40.css.map": "/AnonimusGPGS/static/css/main.05fbed40.css.map",
-    "main.009263cd.js.map": "/AnonimusGPGS/static/js/main.009263cd.js.map",
+    "main.d996de17.js.map": "/AnonimusGPGS/static/js/main.d996de17.js.map",
     "7614.8408a0c3.chunk.js.map": "/AnonimusGPGS/static/js/7614.8408a0c3.chunk.js.map",
     "9553.f43ad731.chunk.js.map": "/AnonimusGPGS/static/js/9553.f43ad731.chunk.js.map",
     "4473.8651fdd1.chunk.js.map": "/AnonimusGPGS/static/js/4473.8651fdd1.chunk.js.map",
@@ -184,6 +184,6 @@
   },
   "entrypoints": [
     "static/css/main.05fbed40.css",
-    "static/js/main.009263cd.js"
+    "static/js/main.d996de17.js"
   ]
 }
